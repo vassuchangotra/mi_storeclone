@@ -6,5 +6,18 @@
   
 }
 .preNav > div{
-padding: 0.5vmax 4vmax;
+padding: 0.7vmax 4vmax;
+}
+.preNav > div > span{
+    color: rgb(235, 224, 224);
+    font-size: 0.8vmax;
+    font-weight: 100;
+}
+.preNav > div > a{
+    color: rgb(231, 218, 218);
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 300;
+    font-size: 0.9vmax;
+    margin: 1vmax;
+    text-decoration: none;
 }
