@@ -1,15 +1,11 @@
 import './App.css';
-import Navbar from './Navbar.js';
 
+import Prenavbar from './components/Prenavbar';
 function App() {
   return (
 
     <div >
-     Helllo
-     <h1>
-       yo
-<Navbar />
-     </h1>
+    <Prenavbar/>
     </div>
   );
 }

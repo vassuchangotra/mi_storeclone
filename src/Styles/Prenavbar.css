@@ -1,0 +1,10 @@
+.preNav{
+    background-color: black;
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    color: aliceblue;
+  
+}
+.preNav > div{
+padding: 0.5vmax 4vmax;
+}
