@@ -21,3 +21,8 @@ padding: 0.7vmax 4vmax;
     margin: 1vmax;
     text-decoration: none;
 }
+.preNav > div > a > svg{
+    fill: rgb(228, 217, 217);
+    height: 1.5vmax;
+    margin: 0;
+}
